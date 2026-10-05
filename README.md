@@ -1,4 +1,4 @@
-# C++ Video Analytics Pipeline Template
+# C++ Video Analytics Pipeline Template.
 
 A starting point for building GPU-accelerated video analytics applications on NVIDIA Jetson (JetPack 5.x / 6.x) or x86 with CUDA.
 
